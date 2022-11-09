@@ -1,0 +1,45 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial;
+}
+header{
+    margin-top: 50px;
+    width: 80%;
+    display: block;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    padding: 12px;
+    text-align: center;
+    margin: auto;
+
+}
+
+main{
+    margin-top: 50px;
+    width: 80%;
+    display: block;
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    padding: 12px;
+    text-align: center;
+    margin-top: 50px;
+    margin: auto;
+}
+
+footer{
+    width: 80%;
+    display: block;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    padding: 12px;
+    text-align: center;
+    margin-top: 50px;
+    margin: auto;
+}
+
+    
+
